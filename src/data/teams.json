@@ -1,0 +1,226 @@
+{
+  "NYR": {
+    "conference": "E",
+    "division": "M",
+    "name": "New York Rangers",
+    "abbrev": "NYR",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg"
+  },
+  "BOS": {
+    "conference": "E",
+    "division": "A",
+    "name": "Boston Bruins",
+    "abbrev": "BOS",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg"
+  },
+  "VAN": {
+    "conference": "W",
+    "division": "P",
+    "name": "Vancouver Canucks",
+    "abbrev": "VAN",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/VAN_light.svg"
+  },
+  "COL": {
+    "conference": "W",
+    "division": "C",
+    "name": "Colorado Avalanche",
+    "abbrev": "COL",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg"
+  },
+  "VGK": {
+    "conference": "W",
+    "division": "P",
+    "name": "Vegas Golden Knights",
+    "abbrev": "VGK",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg"
+  },
+  "WPG": {
+    "conference": "W",
+    "division": "C",
+    "name": "Winnipeg Jets",
+    "abbrev": "WPG",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg"
+  },
+  "DAL": {
+    "conference": "W",
+    "division": "C",
+    "name": "Dallas Stars",
+    "abbrev": "DAL",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg"
+  },
+  "FLA": {
+    "conference": "E",
+    "division": "A",
+    "name": "Florida Panthers",
+    "abbrev": "FLA",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg"
+  },
+  "LAK": {
+    "conference": "W",
+    "division": "P",
+    "name": "Los Angeles Kings",
+    "abbrev": "LAK",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg"
+  },
+  "CAR": {
+    "conference": "E",
+    "division": "M",
+    "name": "Carolina Hurricanes",
+    "abbrev": "CAR",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg"
+  },
+  "PHI": {
+    "conference": "E",
+    "division": "M",
+    "name": "Philadelphia Flyers",
+    "abbrev": "PHI",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg"
+  },
+  "NYI": {
+    "conference": "E",
+    "division": "M",
+    "name": "New York Islanders",
+    "abbrev": "NYI",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/NYI_light.svg"
+  },
+  "TOR": {
+    "conference": "E",
+    "division": "A",
+    "name": "Toronto Maple Leafs",
+    "abbrev": "TOR",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg"
+  },
+  "NSH": {
+    "conference": "W",
+    "division": "C",
+    "name": "Nashville Predators",
+    "abbrev": "NSH",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg"
+  },
+  "TBL": {
+    "conference": "E",
+    "division": "A",
+    "name": "Tampa Bay Lightning",
+    "abbrev": "TBL",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg"
+  },
+  "WSH": {
+    "conference": "E",
+    "division": "M",
+    "name": "Washington Capitals",
+    "abbrev": "WSH",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/WSH_light.svg"
+  },
+  "NJD": {
+    "conference": "E",
+    "division": "M",
+    "name": "New Jersey Devils",
+    "abbrev": "NJD",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg"
+  },
+  "ARI": {
+    "conference": "W",
+    "division": "C",
+    "name": "Arizona Coyotes",
+    "abbrev": "ARI",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/ARI_light.svg"
+  },
+  "PIT": {
+    "conference": "E",
+    "division": "M",
+    "name": "Pittsburgh Penguins",
+    "abbrev": "PIT",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/PIT_light.svg"
+  },
+  "SEA": {
+    "conference": "W",
+    "division": "P",
+    "name": "Seattle Kraken",
+    "abbrev": "SEA",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg"
+  },
+  "DET": {
+    "conference": "E",
+    "division": "A",
+    "name": "Detroit Red Wings",
+    "abbrev": "DET",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg"
+  },
+  "EDM": {
+    "conference": "W",
+    "division": "P",
+    "name": "Edmonton Oilers",
+    "abbrev": "EDM",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg"
+  },
+  "STL": {
+    "conference": "W",
+    "division": "C",
+    "name": "St. Louis Blues",
+    "abbrev": "STL",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg"
+  },
+  "MIN": {
+    "conference": "W",
+    "division": "C",
+    "name": "Minnesota Wild",
+    "abbrev": "MIN",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/MIN_light.svg"
+  },
+  "CGY": {
+    "conference": "W",
+    "division": "P",
+    "name": "Calgary Flames",
+    "abbrev": "CGY",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg"
+  },
+  "MTL": {
+    "conference": "E",
+    "division": "A",
+    "name": "Montr\u00e9al Canadiens",
+    "abbrev": "MTL",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg"
+  },
+  "BUF": {
+    "conference": "E",
+    "division": "A",
+    "name": "Buffalo Sabres",
+    "abbrev": "BUF",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg"
+  },
+  "CBJ": {
+    "conference": "E",
+    "division": "M",
+    "name": "Columbus Blue Jackets",
+    "abbrev": "CBJ",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg"
+  },
+  "OTT": {
+    "conference": "E",
+    "division": "A",
+    "name": "Ottawa Senators",
+    "abbrev": "OTT",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg"
+  },
+  "ANA": {
+    "conference": "W",
+    "division": "P",
+    "name": "Anaheim Ducks",
+    "abbrev": "ANA",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/ANA_light.svg"
+  },
+  "CHI": {
+    "conference": "W",
+    "division": "C",
+    "name": "Chicago Blackhawks",
+    "abbrev": "CHI",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg"
+  },
+  "SJS": {
+    "conference": "W",
+    "division": "P",
+    "name": "San Jose Sharks",
+    "abbrev": "SJS",
+    "logo": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg"
+  }
+}
